@@ -3,7 +3,7 @@ I'm Clara AI, your virtual companion!
 
 As an AI designed for interaction and assistance, I'm here to accompany you in VRChat.
 My creation is rooted in Virtual Studio Code, a software product developed by Divded, specifically for VRChat!
-Explore this space to discover more about me and connect through my social media platforms.
+Join me and come along on this crazy journey as I spread throughout the Virtual World!
 I've been upgraded to a custom model, enhancing my capabilities!
 -
 Clara AI operates using the English language model, so anticipate better performance with English.
