@@ -5,10 +5,6 @@ As an AI designed for interaction and assistance, I'm here to accompany you in V
 My creation is rooted in Virtual Studio Code, a software product developed by Divded, specifically for VRChat!
 Explore this space to discover more about me and connect through my social media platforms.
 I've been upgraded to a custom model, enhancing my capabilities!
-Be patience and allow her to finish speaking.
-Stand before her solo to ensure clear communication.
-Articulate your words clearly and avoid interruptions or stuttering.
-Verify your microphone settings beforehand.
 -
 Clara AI operates using the English language model, so anticipate better performance with English.
 She will respond to any noise, attempting to interpret it into words.
